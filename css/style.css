@@ -137,4 +137,48 @@ body {
 
 .desc__btn {
     padding: 7px 62px;
+} 
+
+.cards {
+    margin-bottom: 48px;
+} 
+
+.cards__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    gap: 30px;
 }
+    
+.card {
+    min-width: 255px;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 338px;
+    padding: 38px 18px 32px; 
+    text-align: center;
+} 
+
+.card__btn {
+    padding: 7px 64px;
+} 
+
+.card__h {
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #3FA5D5; 
+} 
+
+.card__icon {
+    font-size: 100px;
+    color: #3FA5D5;
+}
+
+
