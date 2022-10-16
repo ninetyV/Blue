@@ -249,7 +249,7 @@ body {
 } 
 
 .serv__p {
-    font-family: 'Rubik';
+    font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-weight: 300;
     line-height: 13px;
